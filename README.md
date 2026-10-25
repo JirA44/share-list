@@ -26,6 +26,22 @@ Le lien **est** la permission (comme Google Doc “toute personne disposant du l
 
 ---
 
+## English — overview
+
+Share-list is a collaborative to-do list app that lets people create a list and share it by link without creating accounts. It uses Express and SQLite, and updates items for people using the same shared list.
+
+### What is it for, and why use it?
+
+It is useful for small groups that need a lightweight checklist without a full project-management account system.
+
+### Examples
+
+- Share a grocery list with housemates.
+- Coordinate event supplies or volunteer tasks.
+- Keep a short deployment checklist that several people can update.
+
+**Access note:** the shared link grants access. Anyone who obtains it may be able to view or edit the list, so do not put sensitive information in a shared list.
+
 ## Installation
 
 ```bash
